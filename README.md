@@ -31,7 +31,7 @@ Here are a few of the projects I've worked on:
 
 - 📧 Email: narayandeshpand92@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/narayan-deshpande-35aa1a235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🖥️ [Portfolio](https://stellular-sprite-ee394d.netlify.app/) *(if available)*
+- 🖥️ [Portfolio](https://stellular-sprite-ee394d.netlify.app/)
 
 ---
 
